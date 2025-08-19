@@ -1,6 +1,6 @@
 Irei compartilhar meus estudos aqui, pois é ensinando que se aprende!
 
-# 🐍 Meus Estudos em Python
+# <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Meus Estudos em Python
 ---
 
 ## 📘 O que é Python?
@@ -46,12 +46,12 @@ import this
 O PEP-8 é como se fosse um manual de etiqueta do Python.
 Ele não muda o jeito que o programa funciona, mas ajuda a deixar o código bonito, limpo e fácil de entender (pra você e pra qualquer outra pessoa que for ler seu código).
 
-> É como dirigir no trânsito.
+> 🚦 É como dirigir no trânsito.
 Você pode até parar o carro atravessado, estacionar em qualquer canto ou não usar seta.
 O carro anda do mesmo jeito.
 Mas se todo mundo segue as regras de trânsito, o caminho fica mais organizado, seguro e fácil pra todo mundo.
 
-> O PEP-8 é isso no Python: não obriga você a programar daquele jeito, mas se você segue, o código fica organizado e qualquer pessoa consegue entender. 🚦🐍
+> O PEP-8 é isso no Python: não obriga você a programar daquele jeito, mas se você segue, o código fica organizado e qualquer pessoa consegue entender. 🐍
 
 ## 📝 3 regras principais para começar
 
@@ -106,4 +106,7 @@ mensagem = (
     "em várias partes para facilitar a leitura."
 )
 ```
+📚 Quer aprender mais sobre o PEP-8?
+Confira o guia oficial: [PEP-8 — Style Guide for Python Code](https://peps.python.org/pep-0008/)
+
 
